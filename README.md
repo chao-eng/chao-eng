@@ -10,6 +10,7 @@
 [![Followers](https://img.shields.io/badge/dynamic/json?style=flat-square&label=Followers&query=%24.followers&url=https%3A%2F%2Fraw.githubusercontent.com%2Fchao-eng%2Fchao-eng%2Fmain%2Fprofile-metrics.json&color=111111)](https://github.com/chao-eng?tab=followers)
 [![Public Repos](https://img.shields.io/badge/dynamic/json?style=flat-square&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fraw.githubusercontent.com%2Fchao-eng%2Fchao-eng%2Fmain%2Fprofile-metrics.json&color=111111)](https://github.com/chao-eng?tab=repositories)
 [![Global Star Rank](https://img.shields.io/badge/dynamic/json?style=flat-square&label=Global%20Star%20Rank&query=%24.global_star_rank&url=https%3A%2F%2Fraw.githubusercontent.com%2Fchao-eng%2Fchao-eng%2Fmain%2Fprofile-metrics.json&color=111111)](https://github.com/chao-eng)
+[![Blog](https://img.shields.io/badge/Blog-bujic.cc-111111?style=flat-square)](https://bujic.cc)
 
 </div>
 
@@ -59,6 +60,8 @@ _以上内容由 GitHub Actions 自动更新。_
 ## 找到我
 
 主要阵地 · GitHub [@chao-eng](https://github.com/chao-eng)
+
+个人博客 · [bujic.cc](https://bujic.cc)
 
 内容平台 · [Bilibili](https://space.bilibili.com/512112323) · 公众号 `立得工具箱`
 
