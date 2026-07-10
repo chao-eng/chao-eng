@@ -1,20 +1,31 @@
 <div align="center">
 
-# CHAO
+# 赵超 · CHAO
 
-`工程师` `开发者` `开源`
+`工程师` `产品开发` `自动化` `开源实践`
 
-这里记录我持续在做的项目、长期维护的作品，以及一些值得反复打磨的想法。
+把零散想法做成能长期维护的工具。
 
-[github.com/chao-eng](https://github.com/chao-eng)
+[![GitHub](https://img.shields.io/badge/GitHub-chao--eng-111111?style=flat-square&logo=github)](https://github.com/chao-eng)
+[![Followers](https://img.shields.io/github/followers/chao-eng?style=flat-square&label=Followers&color=111111)](https://github.com/chao-eng?tab=followers)
+[![Repos](https://img.shields.io/badge/dynamic/json?style=flat-square&label=Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fchao-eng&color=111111)](https://github.com/chao-eng?tab=repositories)
+[![Views](https://komarev.com/ghpvc/?username=chao-eng&color=111111&style=flat-square)](https://github.com/chao-eng)
 
 </div>
 
 ---
 
+> 这里不是项目陈列柜，更像一个持续施工中的个人工作台。
+
+## 我在做什么
+
+- 做能真正落地的桌面工具、Web 产品和自动化脚本
+- 关注长期维护，而不是只把功能做完
+- 喜欢把复杂流程收束成简单、稳定、可重复的体验
+
 ## 精选项目
 
-以下内容会自动读取我的公开仓库，并按 `Star` 数量排序展示。
+以下项目会自动读取我的公开仓库，并按 `Star` 数量排序。
 
 <!-- featured-projects:start -->
 | 项目 | 简介 | 数据 |
@@ -29,12 +40,12 @@
 _以上内容由 GitHub Actions 自动更新。_
 <!-- featured-projects:end -->
 
-## 概览
+## 工作偏好
 
-我更关注能长期使用的工具、可持续维护的工程实践，以及真正解决问题的产品细节。
+我偏好这几类问题：工具化、效率提升、复杂流程收敛、以及值得被反复使用的产品细节。
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chao-eng&show_icons=true&hide_border=true&title_color=111111&text_color=444444&icon_color=111111)
 
-## 联系方式
+## 找到我
 
 - GitHub: [@chao-eng](https://github.com/chao-eng)
