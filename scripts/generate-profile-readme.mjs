@@ -2,6 +2,7 @@ import fs from "node:fs/promises";
 
 const owner = process.env.PROFILE_USERNAME || "chao-eng";
 const readmePath = new URL("../README.md", import.meta.url);
+const metricsPath = new URL("../profile-metrics.json", import.meta.url);
 const apiBase = "https://api.github.com";
 const featuredStart = "<!-- featured-projects:start -->";
 const featuredEnd = "<!-- featured-projects:end -->";
@@ -51,6 +52,18 @@ async function fetchAllRepos() {
       !repo.disabled &&
       repo.name.toLowerCase() !== owner.toLowerCase(),
   );
+}
+
+async function fetchUserProfile() {
+  const response = await githubRequest(`/users/${owner}`);
+
+  if (!response.ok) {
+    throw new Error(
+      `Failed to fetch user profile: ${response.status} ${response.statusText}`,
+    );
+  }
+
+  return response.json();
 }
 
 function parseLastPage(linkHeader) {
@@ -109,8 +122,11 @@ function escapePipes(text) {
   return text.replace(/\|/g, "\\|");
 }
 
-async function buildFeaturedProjectsSection() {
-  const repos = await fetchAllRepos();
+function buildBadge(label, message) {
+  return `![${label}](https://img.shields.io/badge/${encodeURIComponent(label)}-${encodeURIComponent(String(message))}-111111?style=flat-square)`;
+}
+
+async function buildFeaturedProjectsSection(repos) {
   const rankedRepos = repos
     .sort((a, b) => {
       if (b.stargazers_count !== a.stargazers_count) {
@@ -143,7 +159,7 @@ async function buildFeaturedProjectsSection() {
 
   for (const repo of reposWithCommits) {
     const description = escapePipes(formatDescription(repo.description));
-    const stats = `⭐ ${repo.stargazers_count} · 提交 ${repo.commitCount}`;
+    const stats = `${buildBadge("Stars", repo.stargazers_count)} ${buildBadge("Commits", repo.commitCount)}`;
     lines.push(`| [${repo.name}](${repo.html_url}) | ${description} | ${stats} |`);
   }
 
@@ -153,9 +169,27 @@ async function buildFeaturedProjectsSection() {
   return lines.join("\n");
 }
 
-async function updateReadme() {
+async function writeMetricsFile(repos) {
+  const profile = await fetchUserProfile();
+  const totalStars = repos.reduce(
+    (sum, repo) => sum + repo.stargazers_count,
+    0,
+  );
+
+  const metrics = {
+    total_stars: totalStars,
+    followers: profile.followers,
+    public_repos: profile.public_repos,
+    global_star_rank: "N/A",
+    updated_at: new Date().toISOString(),
+  };
+
+  await fs.writeFile(metricsPath, `${JSON.stringify(metrics, null, 2)}\n`);
+}
+
+async function updateReadme(repos) {
   const readme = await fs.readFile(readmePath, "utf8");
-  const generatedSection = await buildFeaturedProjectsSection();
+  const generatedSection = await buildFeaturedProjectsSection(repos);
   const pattern = new RegExp(
     `${featuredStart}[\\s\\S]*?${featuredEnd}`,
     "m",
@@ -172,7 +206,15 @@ async function updateReadme() {
   return true;
 }
 
-updateReadme().catch((error) => {
+async function main() {
+  const repos = await fetchAllRepos();
+  await Promise.all([
+    updateReadme(repos),
+    writeMetricsFile(repos),
+  ]);
+}
+
+main().catch((error) => {
   console.error(error);
   process.exitCode = 1;
 });
