@@ -42,9 +42,9 @@ BUJIC Echo 是一款 Android 本地离线音频 AI 应用。除首次使用需�
 <!-- featured-projects:start -->
 | 项目 | 简介 | 数据 |
 | --- | --- | --- |
-| [bujic-panel](https://github.com/chao-eng/bujic-panel) | 一个基于 Next.js 16、React 19、TailwindCSS 和 SQLite 构建的高颜值、自托管、多用户导航与书签管理系统，支持搜索、拖拽排序、元数据抓取、备份恢复和后台权限管理。 | ![Stars](https://img.shields.io/badge/Stars-40-111111?style=flat-square) ![Commits](https://img.shields.io/badge/Commits-43-111111?style=flat-square) |
+| [bujic-panel](https://github.com/chao-eng/bujic-panel) | 一个基于 Next.js 16、React 19、TailwindCSS 和 SQLite 构建的高颜值、自托管、多用户导航与书签管理系统，支持搜索、拖拽排序、元数据抓取、备份恢复和后台权限管理。 | ![Stars](https://img.shields.io/badge/Stars-41-111111?style=flat-square) ![Commits](https://img.shields.io/badge/Commits-43-111111?style=flat-square) |
 | [AutoController](https://github.com/chao-eng/AutoController) | AutoController - 专业级游戏手柄模拟挂机工具 | ![Stars](https://img.shields.io/badge/Stars-20-111111?style=flat-square) ![Commits](https://img.shields.io/badge/Commits-124-111111?style=flat-square) |
-| [SpaceShift](https://github.com/chao-eng/SpaceShift) | 基于 Tauri + Vue 3 开发的现代化 Chrome 配置管理器。提供CDP 流量转发功能，方便局域网服务如 openclaw 使用 CDP 远程控制浏览器 | ![Stars](https://img.shields.io/badge/Stars-13-111111?style=flat-square) ![Commits](https://img.shields.io/badge/Commits-68-111111?style=flat-square) |
+| [SpaceShift](https://github.com/chao-eng/SpaceShift) | 🚀 Multi-Chrome Profile Manager — 隔离的多 Chrome 配置管理工具 \| CDP 远程调试 & 自动化 \| Rust + Tauri v2 + Vue 3 | ![Stars](https://img.shields.io/badge/Stars-13-111111?style=flat-square) ![Commits](https://img.shields.io/badge/Commits-71-111111?style=flat-square) |
 | [Hy-MT2-llama-docker](https://github.com/chao-eng/Hy-MT2-llama-docker) | 腾讯开源模型 Hy-MT2 的 llama方式桌面端 & Docker部署方案 | ![Stars](https://img.shields.io/badge/Stars-8-111111?style=flat-square) ![Commits](https://img.shields.io/badge/Commits-43-111111?style=flat-square) |
 | [nuxt-blog-site](https://github.com/chao-eng/nuxt-blog-site) | 像动态博客一样管理你的 Markdown 静态站 | ![Stars](https://img.shields.io/badge/Stars-6-111111?style=flat-square) ![Commits](https://img.shields.io/badge/Commits-58-111111?style=flat-square) |
 | [subx](https://github.com/chao-eng/subx) | 从 mkv 视频中提取英文字幕并使用AI模型翻译为中文字幕 | ![Stars](https://img.shields.io/badge/Stars-5-111111?style=flat-square) ![Commits](https://img.shields.io/badge/Commits-28-111111?style=flat-square) |
