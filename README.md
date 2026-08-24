@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm CHAO
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2800&pause=1000&color=2F80ED&center=true&vCenter=true&width=520&lines=工程师+·+独立开发+·+工具践行者;把零散的想法，收敛成长期可用的工具;Focus+on+Tools,+Simplicity+&+Quality" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1000&color=2F80ED&center=true&vCenter=true&width=560&lines=%E5%B7%A5%E7%A8%8B%E5%B8%88+%C2%B7+%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91+%C2%B7+%E5%B7%A5%E5%85%B7%E8%B7%B5%E8%A1%8C%E8%80%85;%E6%8A%8A%E9%9B%B6%E6%95%A3%E7%9A%84%E6%83%B3%E6%B3%95%EF%BC%8C%E5%81%9A%E6%88%90%E9%95%BF%E6%9C%9F%E5%8F%AF%E7%94%A8%E7%9A%84%E5%B7%A5%E5%85%B7;Focus+on+Tools%2C+Simplicity+and+Quality" alt="Typing SVG" />
 
 <p>
   <a href="https://github.com/chao-eng?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=Total%20Stars&query=%24.total_stars&url=https%3A%2F%2Fraw.githubusercontent.com%2Fchao-eng%2Fchao-eng%2Fmain%2Fprofile-metrics.json&color=2F80ED&logo=github" /></a>
