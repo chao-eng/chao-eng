@@ -1,43 +1,40 @@
 <div align="center">
 
-# CHAO
+# 👋 Hi, I'm CHAO
 
-`工程师` `产品开发` `自动化` `开源实践`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2800&pause=1000&color=2F80ED&center=true&vCenter=true&width=520&lines=工程师+·+独立开发+·+工具践行者;把零散的想法，收敛成长期可用的工具;Focus+on+Tools,+Simplicity+&+Quality" alt="Typing SVG" />
 
-把零散想法做成能长期维护的工具。
-
-[![Total Stars](https://img.shields.io/badge/dynamic/json?style=flat-square&label=Total%20Stars&query=%24.total_stars&url=https%3A%2F%2Fraw.githubusercontent.com%2Fchao-eng%2Fchao-eng%2Fmain%2Fprofile-metrics.json&color=111111)](https://github.com/chao-eng?tab=repositories)
-[![Followers](https://img.shields.io/badge/dynamic/json?style=flat-square&label=Followers&query=%24.followers&url=https%3A%2F%2Fraw.githubusercontent.com%2Fchao-eng%2Fchao-eng%2Fmain%2Fprofile-metrics.json&color=111111)](https://github.com/chao-eng?tab=followers)
-[![Public Repos](https://img.shields.io/badge/dynamic/json?style=flat-square&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fraw.githubusercontent.com%2Fchao-eng%2Fchao-eng%2Fmain%2Fprofile-metrics.json&color=111111)](https://github.com/chao-eng?tab=repositories)
-[![Blog](https://img.shields.io/badge/Blog-bujic.cc-111111?style=flat-square)](https://bujic.cc)
+<p>
+  <a href="https://github.com/chao-eng?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=Total%20Stars&query=%24.total_stars&url=https%3A%2F%2Fraw.githubusercontent.com%2Fchao-eng%2Fchao-eng%2Fmain%2Fprofile-metrics.json&color=2F80ED&logo=github" /></a>
+  <a href="https://github.com/chao-eng?tab=followers"><img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=Followers&query=%24.followers&url=https%3A%2F%2Fraw.githubusercontent.com%2Fchao-eng%2Fchao-eng%2Fmain%2Fprofile-metrics.json&color=111111" /></a>
+  <a href="https://bujic.cc"><img src="https://img.shields.io/badge/Blog-bujic.cc-5cb3cc?style=flat-square&logo=safari&logoColor=white" /></a>
+</p>
 
 </div>
 
 ---
 
+### 👨‍💻 关于我
+
 > 这里不是项目陈列柜，更像一个持续施工中的个人工作台。
 
-## 我在做什么
+- 🛠️ **专注方向**：桌面端工具 (Tauri/Electron)、AI 离线应用、全栈 Web 与自动化流程
+- 💡 **开发哲学**：关注长期维护与使用体验，喜欢把复杂流程收敛为简单、稳定、可重复的工具
+- 🚀 **主要作品**：[**BUJIC Echo**](https://echo.bujic.cc/)（Android/桌面 本地离线音频 AI 应用，语音转写·声音克隆·离线翻译）
 
-- 做能真正落地的桌面工具、Web 产品和自动化脚本
-- 关注长期维护，而不是只把功能做完
-- 喜欢把复杂流程收束成简单、稳定、可重复的体验
+---
 
-## 代表作品
+### 🛠️ 技术栈
 
-### [BUJIC Echo](https://echo.bujic.cc/)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=rust,ts,vue,react,nextjs,nodejs,tauri,vite,docker,linux,apple,windows" />
+</div>
 
-把语音 AI 装进手机里。
+<br/>
 
-BUJIC Echo 是一款 Android 本地离线音频 AI 应用。除首次使用需要联网下载模型外，后续使用无需联网；语音、文件和翻译内容全程在手机本地处理，隐私安全。
+---
 
-- 官网：[echo.bujic.cc](https://echo.bujic.cc/)
-- 形态：Android 本地离线音频 AI 应用
-- 能力：语音识别、会议记录、字幕生成、离线翻译、文本朗读
-
-## 精选项目
-
-以下项目会自动读取我的公开仓库，并按 `Star` 数量排序。
+### 🌟 精选项目
 
 <!-- featured-projects:start -->
 | 项目 | 简介 | 数据 |
@@ -52,24 +49,41 @@ BUJIC Echo 是一款 Android 本地离线音频 AI 应用。除首次使用需�
 _以上内容由 GitHub Actions 自动更新。_
 <!-- featured-projects:end -->
 
-## 工作偏好
+---
 
-我偏好这几类问题：工具化、效率提升、复杂流程收敛、以及值得被反复使用的产品细节。
+### 🐍 贡献活跃度
 
-## 🐍 贡献活跃度
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chao-eng/chao-eng/refs/heads/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chao-eng/chao-eng/refs/heads/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/chao-eng/chao-eng/refs/heads/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chao-eng/chao-eng/refs/heads/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chao-eng/chao-eng/refs/heads/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/chao-eng/chao-eng/refs/heads/output/github-contribution-grid-snake.svg">
-</picture>
+<br/>
 
-## 找到我
+---
 
-主要阵地 · GitHub [@chao-eng](https://github.com/chao-eng)
+### 🤝 找到我
 
-个人博客 · [bujic.cc](https://bujic.cc)
+<div align="center">
+  <a href="https://github.com/chao-eng">
+    <img src="https://img.shields.io/badge/GitHub-chao--eng-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://bujic.cc">
+    <img src="https://img.shields.io/badge/Blog-bujic.cc-5cb3cc?style=for-the-badge&logo=safari&logoColor=white" />
+  </a>
+  <a href="https://space.bilibili.com/512112323">
+    <img src="https://img.shields.io/badge/Bilibili-立得工具箱-FB7299?style=for-the-badge&logo=bilibili&logoColor=white" />
+  </a>
+  <a href="mailto:bujic@qq.com">
+    <img src="https://img.shields.io/badge/邮箱-bujic@qq.com-D14836?style=for-the-badge&logo=mail.ru&logoColor=white" />
+  </a>
+</div>
 
-内容平台 · [Bilibili](https://space.bilibili.com/512112323) · 公众号 `立得工具箱`
+<br/>
 
-邮箱合作 · [bujic@qq.com](mailto:bujic@qq.com)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=5cb3cc&height=70&section=footer" width="100%"/>
+</div>
