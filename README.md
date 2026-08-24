@@ -56,6 +56,14 @@ _以上内容由 GitHub Actions 自动更新。_
 
 我偏好这几类问题：工具化、效率提升、复杂流程收敛、以及值得被反复使用的产品细节。
 
+## 🐍 贡献活跃度
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chao-eng/chao-eng/refs/heads/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chao-eng/chao-eng/refs/heads/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/chao-eng/chao-eng/refs/heads/output/github-contribution-grid-snake.svg">
+</picture>
+
 ## 找到我
 
 主要阵地 · GitHub [@chao-eng](https://github.com/chao-eng)
