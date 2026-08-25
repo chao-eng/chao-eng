@@ -27,7 +27,7 @@
 ### 🛠️ 技术栈
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=rust,ts,vue,react,nextjs,nodejs,tauri,vite,docker,linux,apple,windows" />
+  <img src="https://skillicons.dev/icons?i=rust,ts,vue,java,nextjs,nodejs,tauri,vite,docker,linux,apple,windows" />
 </div>
 
 <br/>
@@ -75,7 +75,7 @@ _以上内容由 GitHub Actions 自动更新。_
     <img src="https://img.shields.io/badge/Blog-bujic.cc-5cb3cc?style=for-the-badge&logo=safari&logoColor=white" />
   </a>
   <a href="https://space.bilibili.com/512112323">
-    <img src="https://img.shields.io/badge/Bilibili-立得工具箱-FB7299?style=for-the-badge&logo=bilibili&logoColor=white" />
+    <img src="https://img.shields.io/badge/Bilibili-大佬阿萨-FB7299?style=for-the-badge&logo=bilibili&logoColor=white" />
   </a>
   <a href="mailto:bujic@qq.com">
     <img src="https://img.shields.io/badge/邮箱-bujic@qq.com-D14836?style=for-the-badge&logo=mail.ru&logoColor=white" />
@@ -85,5 +85,5 @@ _以上内容由 GitHub Actions 自动更新。_
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=5cb3cc&height=70&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=random&reversal=false&section=footer" width="100%"/>
 </div>
