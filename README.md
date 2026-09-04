@@ -80,6 +80,9 @@ _以上内容由 GitHub Actions 自动更新。_
   <a href="mailto:bujic@qq.com">
     <img src="https://img.shields.io/badge/邮箱-bujic@qq.com-D14836?style=for-the-badge&logo=mail.ru&logoColor=white" />
   </a>
+  <a href="https://skillhub.cn/user/user_029d56a9">
+    <img src="https://img.shields.io/badge/SkillHub-skillhub.cn-4FC08D?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </div>
 
 <br/>
