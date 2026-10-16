@@ -41,12 +41,12 @@
 <!-- featured-projects:start -->
 | 项目 | 简介 | 数据 |
 | --- | --- | --- |
-| [bujic-panel](https://github.com/chao-eng/bujic-panel) | 高颜值、自托管、多用户的网站导航与书签管理系统。 | ![Stars](https://img.shields.io/badge/Stars-49-111111?style=flat-square) ![Commits](https://img.shields.io/badge/Commits-63-111111?style=flat-square) |
-| [CalmBar](https://github.com/chao-eng/CalmBar) | macOS 全能系统增强套件 —— 硬件温控 · 菜单栏收纳 · 鼠标滚轮解耦 · 媒体启动拦截 · 系统防休眠防离开 · 充电管理与电池上限 · 应用去隔离授权 · 屏幕文字与二维码识别 · 剪贴板历史管理 · 软件卸载与开发者环境深度清理 | ![Stars](https://img.shields.io/badge/Stars-21-111111?style=flat-square) ![Commits](https://img.shields.io/badge/Commits-84-111111?style=flat-square) |
-| [AutoController](https://github.com/chao-eng/AutoController) | 游戏手柄模拟挂机工具 | ![Stars](https://img.shields.io/badge/Stars-20-111111?style=flat-square) ![Commits](https://img.shields.io/badge/Commits-124-111111?style=flat-square) |
+| [bujic-panel](https://github.com/chao-eng/bujic-panel) | 高颜值、自托管、多用户的网站导航与书签管理系统。 | ![Stars](https://img.shields.io/badge/Stars-50-111111?style=flat-square) ![Commits](https://img.shields.io/badge/Commits-63-111111?style=flat-square) |
+| [CalmBar](https://github.com/chao-eng/CalmBar) | macOS 全能系统增强套件 —— 硬件温控 · 菜单栏收纳 · 鼠标滚轮解耦 · 媒体启动拦截 · 系统防休眠防离开 · 充电管理与电池上限 · 应用去隔离授权 · 屏幕文字与二维码识别 · 剪贴板历史管理 · 软件卸载与开发者环境深度清理 | ![Stars](https://img.shields.io/badge/Stars-22-111111?style=flat-square) ![Commits](https://img.shields.io/badge/Commits-84-111111?style=flat-square) |
+| [AutoController](https://github.com/chao-eng/AutoController) | 游戏手柄模拟挂机工具 | ![Stars](https://img.shields.io/badge/Stars-21-111111?style=flat-square) ![Commits](https://img.shields.io/badge/Commits-124-111111?style=flat-square) |
 | [SpaceShift](https://github.com/chao-eng/SpaceShift) | 多 Chrome 配置管理工具 \| CDP 远程调试 & 自动化 \| Rust + Tauri v2 + Vue 3 | ![Stars](https://img.shields.io/badge/Stars-14-111111?style=flat-square) ![Commits](https://img.shields.io/badge/Commits-71-111111?style=flat-square) |
 | [Hy-MT2-llama-docker](https://github.com/chao-eng/Hy-MT2-llama-docker) | 腾讯开源模型 Hy-MT2 的 llama方式桌面端 & Docker部署方案 | ![Stars](https://img.shields.io/badge/Stars-13-111111?style=flat-square) ![Commits](https://img.shields.io/badge/Commits-43-111111?style=flat-square) |
-| [subx](https://github.com/chao-eng/subx) | 从 mkv 视频中提取英文字幕并使用AI模型翻译为中文字幕 | ![Stars](https://img.shields.io/badge/Stars-5-111111?style=flat-square) ![Commits](https://img.shields.io/badge/Commits-28-111111?style=flat-square) |
+| [batch-mail](https://github.com/chao-eng/batch-mail) | 桌面端批量邮件发送工具 | ![Stars](https://img.shields.io/badge/Stars-5-111111?style=flat-square) ![Commits](https://img.shields.io/badge/Commits-31-111111?style=flat-square) |
 
 _以上内容由 GitHub Actions 自动更新。_
 <!-- featured-projects:end -->
