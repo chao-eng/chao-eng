@@ -41,8 +41,8 @@
 <!-- featured-projects:start -->
 | 项目 | 简介 | 数据 |
 | --- | --- | --- |
-| [bujic-panel](https://github.com/chao-eng/bujic-panel) | 高颜值、自托管、多用户的网站导航与书签管理系统。 | ![Stars](https://img.shields.io/badge/Stars-52-111111?style=flat-square) ![Commits](https://img.shields.io/badge/Commits-75-111111?style=flat-square) |
-| [CalmBar](https://github.com/chao-eng/CalmBar) | 常驻菜单栏的 macOS 工具集，把散热、充电、剪贴板、录屏这些日常操作收进一个面板。 | ![Stars](https://img.shields.io/badge/Stars-28-111111?style=flat-square) ![Commits](https://img.shields.io/badge/Commits-120-111111?style=flat-square) |
+| [bujic-panel](https://github.com/chao-eng/bujic-panel) | 高颜值、自托管、多用户的网站导航与书签管理系统。 | ![Stars](https://img.shields.io/badge/Stars-53-111111?style=flat-square) ![Commits](https://img.shields.io/badge/Commits-75-111111?style=flat-square) |
+| [CalmBar](https://github.com/chao-eng/CalmBar) | 常驻菜单栏的 macOS 工具集，把散热、充电、剪贴板、录屏这些日常操作收进一个面板。 | ![Stars](https://img.shields.io/badge/Stars-28-111111?style=flat-square) ![Commits](https://img.shields.io/badge/Commits-123-111111?style=flat-square) |
 | [AutoController](https://github.com/chao-eng/AutoController) | 游戏手柄模拟挂机工具 | ![Stars](https://img.shields.io/badge/Stars-21-111111?style=flat-square) ![Commits](https://img.shields.io/badge/Commits-124-111111?style=flat-square) |
 | [Hy-MT2-llama-docker](https://github.com/chao-eng/Hy-MT2-llama-docker) | 腾讯开源模型 Hy-MT2 的 llama方式桌面端 & Docker部署方案 | ![Stars](https://img.shields.io/badge/Stars-16-111111?style=flat-square) ![Commits](https://img.shields.io/badge/Commits-43-111111?style=flat-square) |
 | [SpaceShift](https://github.com/chao-eng/SpaceShift) | 多 Chrome 配置管理工具 \| CDP 远程调试 & 自动化 \| Rust + Tauri v2 + Vue 3 | ![Stars](https://img.shields.io/badge/Stars-14-111111?style=flat-square) ![Commits](https://img.shields.io/badge/Commits-71-111111?style=flat-square) |
