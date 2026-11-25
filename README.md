@@ -46,7 +46,7 @@
 | [AutoController](https://github.com/chao-eng/AutoController) | 游戏手柄模拟挂机工具 | ![Stars](https://img.shields.io/badge/Stars-20-111111?style=flat-square) ![Commits](https://img.shields.io/badge/Commits-124-111111?style=flat-square) |
 | [Hy-MT2-llama-docker](https://github.com/chao-eng/Hy-MT2-llama-docker) | 腾讯开源模型 Hy-MT2 的 llama方式桌面端 & Docker部署方案 | ![Stars](https://img.shields.io/badge/Stars-17-111111?style=flat-square) ![Commits](https://img.shields.io/badge/Commits-43-111111?style=flat-square) |
 | [SpaceShift](https://github.com/chao-eng/SpaceShift) | 多 Chrome 配置管理工具 \| CDP 远程调试 & 自动化 \| Rust + Tauri v2 + Vue 3 | ![Stars](https://img.shields.io/badge/Stars-14-111111?style=flat-square) ![Commits](https://img.shields.io/badge/Commits-71-111111?style=flat-square) |
-| [batch-mail](https://github.com/chao-eng/batch-mail) | 桌面端批量邮件发送工具 | ![Stars](https://img.shields.io/badge/Stars-5-111111?style=flat-square) ![Commits](https://img.shields.io/badge/Commits-31-111111?style=flat-square) |
+| [bujic-movie](https://github.com/chao-eng/bujic-movie) | 一个轻量级、自托管的媒体文件管理工具，旨在实现电影和电视剧的自动刮削（元数据抓取）、文件智能整理（重命名、归档、转移）与资源搜索下载（多站点聚合搜索、一键推送到下载器）。 | ![Stars](https://img.shields.io/badge/Stars-6-111111?style=flat-square) ![Commits](https://img.shields.io/badge/Commits-111-111111?style=flat-square) |
 
 _以上内容由 GitHub Actions 自动更新。_
 <!-- featured-projects:end -->
